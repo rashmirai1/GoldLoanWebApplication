@@ -1,0 +1,48 @@
+﻿.strip_menu
+{
+  color:#ffffff;
+  font-weight:bold;
+  background-color: #e94f31;  
+}
+.strip_div
+{
+    background:linear-gradient(#66665e 0%, #45463d 100%);
+}
+.strip_table
+{
+padding-top:4.5px;
+padding-bottom:4.5px;    
+}
+
+
+.btnenable {
+	font-size:14px;
+	font-family:Cambria;
+	font-weight:bold;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	border-radius:8px;
+	border:1px solid #337fed;
+	height:25px;
+	width:80px;
+	margin-left:10px;
+	text-decoration:none;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(5%, #ebebe4), color-stop(100%, #1e62d0) );
+	background:-moz-linear-gradient( center top, #ebebe4 5%, #1e62d0 100% );
+	background:-ms-linear-gradient( top, #ebebe4 5%, #1e62d0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#3d94f6', endColorstr='#1e62d0');
+	background-color:#ebebe4;
+	color:#ffffff;
+	display:inline-block;
+	text-shadow:1px 1px 0px #1570cd;
+ 	-webkit-box-shadow:inset 1px 1px 0px 0px #97c4fe;
+ 	-moz-box-shadow:inset 1px 1px 0px 0px #97c4fe;
+ 	box-shadow:inset 1px 1px 0px 0px #97c4fe;
+}
+
+
+.IntCal
+{
+ 
+  background-color:#faf4b3;
+}

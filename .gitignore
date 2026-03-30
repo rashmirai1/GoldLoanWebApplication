@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+
+# Build
+obj/
+packages/
+
+# Temp files
+*.tmp
+*.log
+~$*
+Thumbs.db
